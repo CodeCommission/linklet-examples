@@ -1,0 +1,8 @@
+{
+  "variables": [],
+  "instances": 1,
+  "alias": "reunify-hoc-compose.cloud.dropstack.run",
+  "type": "npm",
+  "name": "klkaanot",
+  "serviceUrl": "klkaanot.cloud.dropstack.run"
+}
