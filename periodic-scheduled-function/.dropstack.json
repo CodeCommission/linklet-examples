@@ -1,0 +1,8 @@
+{
+  "variables": "",
+  "instances": 1,
+  "alias": "linklet-periodic-scheduler.cloud.dropstack.run",
+  "type": "npm",
+  "name": "pmnbecty",
+  "serviceUrl": "pmnbecty.cloud.dropstack.run"
+}

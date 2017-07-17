@@ -1,5 +1,7 @@
 {
-  "variables": [],
+  "variables": "",
+  "instances": 1,
+  "alias": "linklet-basic.cloud.dropstack.run",
   "type": "npm",
   "name": "dmrmzbzr",
   "serviceUrl": "dmrmzbzr.cloud.dropstack.run"

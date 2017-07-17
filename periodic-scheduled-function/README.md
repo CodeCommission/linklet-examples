@@ -1,6 +1,12 @@
-# Compose to Higher-Functions function
+# Periodic scheduler
 
-[Live example](https://klkaanot.cloud.dropstack.run)
+> Running a linklet function in background!
+
+## Live example
+
+```bash
+dropstack logs pmnbecty
+```
 
 ## How to use locally
 

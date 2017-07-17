@@ -3,10 +3,11 @@
   "version": "0.0.0",
   "main": "index.js",
   "scripts": {
-    "start": "node server"
+    "dev": "node server",
+    "start": "NODE_ENV=production SERVICE_PORT=80 node server"
   },
   "license": "MIT",
   "dependencies": {
-    "linklet": "^2.2.1"
+    "linklet": "latest"
   }
 }

@@ -4,12 +4,16 @@
 
 ## Code examples
 
-* [Basic-Function](basic-function/index.js)
-* [Periodic Scheduled-Function](periodic-scheduled-function/index.js)
+* [Basic-Function](basic-function/README.md)
+* [Periodic Scheduled-Function](periodic-scheduled-function/README.md)
 * [Compose to Higher-Function](compose-to-higher-function/README.md)
-* [Event-Stream Function](event-stream-function/index.js)
-* [Linklet as Module](linklet-as-module/server.js)
+* [Event-Stream Function](event-stream-function/README.md)
+* [Linklet as Module](linklet-as-module/README.md)
 
 ## Live examples
 
-* [Compose to Higher-Function](https://klkaanot.cloud.dropstack.run)
+* [Basic Function](https://dmrmzbzr.cloud.dropstack.run)
+* Periodic Scheduler Background Function - `dropstack logs pmnbecty`
+* [Compose to Higher-Functions function](https://klkaanot.cloud.dropstack.run)
+* [EventStream for EventSource Function](https://uxcqcpig.cloud.dropstack.run)
+* [Linklet as Module](https://vzhpopop.cloud.dropstack.run)
