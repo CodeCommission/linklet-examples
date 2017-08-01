@@ -3,6 +3,7 @@
   "instances": 1,
   "alias": "linklet-as-module.cloud.dropstack.run",
   "type": "npm",
+  "excludes": [],
   "name": "vzhpopop",
   "serviceUrl": "vzhpopop.cloud.dropstack.run"
 }

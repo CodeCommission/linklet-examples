@@ -3,6 +3,7 @@
   "instances": 1,
   "alias": "linklet-basic.cloud.dropstack.run",
   "type": "npm",
+  "excludes": [],
   "name": "dmrmzbzr",
   "serviceUrl": "dmrmzbzr.cloud.dropstack.run"
 }

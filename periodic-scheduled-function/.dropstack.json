@@ -3,6 +3,7 @@
   "instances": 1,
   "alias": "linklet-periodic-scheduler.cloud.dropstack.run",
   "type": "npm",
+  "excludes": [],
   "name": "pmnbecty",
   "serviceUrl": "pmnbecty.cloud.dropstack.run"
 }

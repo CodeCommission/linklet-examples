@@ -3,6 +3,7 @@
   "instances": 1,
   "alias": "linklet-event-stream.cloud.dropstack.run",
   "type": "npm",
+  "excludes": [],
   "name": "uxcqcpig",
   "serviceUrl": "uxcqcpig.cloud.dropstack.run"
 }

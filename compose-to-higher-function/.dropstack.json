@@ -3,6 +3,7 @@
   "instances": 1,
   "alias": "linklet-compose.cloud.dropstack.run",
   "type": "npm",
+  "excludes": [],
   "name": "klkaanot",
   "serviceUrl": "klkaanot.cloud.dropstack.run"
 }
