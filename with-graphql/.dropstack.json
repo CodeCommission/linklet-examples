@@ -1,0 +1,9 @@
+{
+  "variables": "",
+  "instances": 1,
+  "alias": "linklet-with-graphql.cloud.dropstack.run",
+  "type": "npm",
+  "excludes": [],
+  "name": "bkkpdzrx",
+  "serviceUrl": "bkkpdzrx.cloud.dropstack.run"
+}

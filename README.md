@@ -12,6 +12,7 @@
 * [Compose to Higher-Function](compose-to-higher-function/README.md)
 * [Event-Stream Function](event-stream-function/README.md)
 * [Linklet as Module](linklet-as-module/README.md)
+* [With GraphQL (Apollo-Client/SubKit)](with-graphql/README.md)
 
 ## Live examples
 
@@ -23,3 +24,4 @@
 * [Compose to Higher-Functions](https://klkaanot.cloud.dropstack.run)
 * [EventStream for EventSource](https://uxcqcpig.cloud.dropstack.run)
 * [Linklet as Module](https://vzhpopop.cloud.dropstack.run)
+* [With GraphQL (Apollo-Client/SubKit)](https://linklet-with-graphql.cloud.dropstack.run)
