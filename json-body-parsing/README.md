@@ -2,7 +2,7 @@
 
 ## The idea behind the example
 
-Shows how to get data posted to your microservice using async/await.
+Shows how to get JSON data posted to your microservice using async/await.
 
 [Live Example](https://linklet-json-body-parsing.cloud.dropstack.run)
 
