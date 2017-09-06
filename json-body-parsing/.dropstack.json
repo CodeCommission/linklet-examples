@@ -1,0 +1,9 @@
+{
+  "variables": "",
+  "instances": 1,
+  "alias": "linklet-json-body-parsing.cloud.dropstack.run",
+  "type": "npm",
+  "excludes": [],
+  "name": "tlbcwltm",
+  "serviceUrl": "tlbcwltm.cloud.dropstack.run"
+}
