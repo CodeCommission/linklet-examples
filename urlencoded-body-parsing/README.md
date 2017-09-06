@@ -38,4 +38,4 @@ dropstack deploy
 
 ### One-Click Web-Deploy
 
-[![Deploy to DropStack](https://deploy.cloud.dropstack.run/button.svg)](https://deploy.cloud.dropstack.run?repo=https://github.com/CodeCommission/linklet-examples/tree/master/url-encoded-body-parsing)
+[![Deploy to DropStack](https://deploy.cloud.dropstack.run/button.svg)](https://deploy.cloud.dropstack.run?repo=https://github.com/CodeCommission/linklet-examples/tree/master/urlencoded-body-parsing)
