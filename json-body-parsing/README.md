@@ -26,15 +26,16 @@ npm run dev # for development
 # npm test # for test run
 ```
 
-## Deploy
+## Deploy to the hybrid-cloud with [DropStack](https://dropstack.run)
 
-[![One-Click-Deploy to DropStack](https://deploy.cloud.dropstack.run/button.svg)](https://deploy.cloud.dropstack.run?repo=https://github.com/CodeCommission/linklet-examples/tree/master/json-body-parsing)
-
-
-Deploy it to the hybrid-cloud with [DropStack](https://dropstack.run)
+### CLI-Deploy
 
 ```bash
 npm install -g dropstack-cli
 dropstack login
 dropstack deploy
 ```
+
+### One-Click Web-Deploy
+
+[![Deploy to DropStack](https://deploy.cloud.dropstack.run/button.svg)](https://deploy.cloud.dropstack.run?repo=https://github.com/CodeCommission/linklet-examples/tree/master/json-body-parsing)
