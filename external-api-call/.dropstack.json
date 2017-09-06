@@ -1,0 +1,9 @@
+{
+  "variables": "",
+  "instances": 1,
+  "alias": "linklet-external-api-call.cloud.dropstack.run",
+  "type": "npm",
+  "excludes": [],
+  "name": "fyumivfo",
+  "serviceUrl": "fyumivfo.cloud.dropstack.run"
+}
