@@ -1,5 +1,7 @@
-module.exports = async () => {
+const { compose, withCORS } = require("linklet");
+
+module.exports = compose(withCORS())(async () => {
   return {
-    msg: 'Hello World from Linklet!',
+    msg: "Hello World from Linklet!"
   };
-};
+});
