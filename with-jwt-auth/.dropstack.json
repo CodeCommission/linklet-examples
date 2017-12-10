@@ -1,0 +1,10 @@
+{
+  "variables": "",
+  "instances": 1,
+  "alias": "linklet-jwt-auth.cloud.dropstack.run",
+  "type": "node8",
+  "excludes": [],
+  "stateful": false,
+  "name": "iqlupiav",
+  "serviceUrl": "iqlupiav.cloud.dropstack.run"
+}

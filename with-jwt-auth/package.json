@@ -1,0 +1,25 @@
+{
+  "private": "true",
+  "name": "with-jwt-auth",
+  "version": "0.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "env $(cat .env-prod | xargs) linklet serve",
+    "dev": "env $(cat .env-dev | xargs) nodemon --exec linklet serve -p 3000",
+    "test": "mocha --require async-to-gen/register index.test.js",
+    "test:watch": "mocha --watch --require async-to-gen/register index.test.js"
+  },
+  "engines": {
+    "node": "^8"
+  },
+  "dependencies": {
+    "linklet": "latest",
+    "linklet-higher-handlers": "^3.3.1"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^3.4.2",
+    "nodemon": "^1.11.0",
+    "node-fetch": "^1.7.0"
+  }
+}
