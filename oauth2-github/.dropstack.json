@@ -1,0 +1,10 @@
+{
+  "variables": "",
+  "instances": 1,
+  "alias": "linklet-oauth2-github.cloud.dropstack.run",
+  "type": "node8",
+  "excludes": [],
+  "stateful": false,
+  "name": "xumydqqu",
+  "serviceUrl": "xumydqqu.cloud.dropstack.run"
+}
